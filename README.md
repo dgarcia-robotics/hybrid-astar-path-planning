@@ -8,7 +8,7 @@ A literature-backed evaluation of the Hybrid A* algorithm, run in the PythonRobo
 
 **Objective 4 — Examine and assess a variety of applications within the field of robotics.**
 
-This is an assessment first: how the algorithm works, where it wins, where it breaks, and whether it fits a specific application — supported by simulation rather than just reading.
+**How it meets the objective:** It examines a path-planning algorithm in depth and assesses its fit for a real application — warehouse robot fleets — using simulation evidence, not just literature.
 
 ## What I Assessed
 
